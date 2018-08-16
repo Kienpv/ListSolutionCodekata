@@ -1,0 +1,2 @@
+# ListSolutionCodekata
+Solution for Katas
